@@ -1,0 +1,7 @@
+#elemento-1 {
+    color: red;
+}
+
+.articulos #elemento-1 {
+    font-size: 2cm;
+}
